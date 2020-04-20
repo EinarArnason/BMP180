@@ -1,0 +1,3 @@
+[submodule "lib/I2C"]
+	path = lib/I2C
+	url = https://github.com/EinarArnason/I2C.git
